@@ -1,1 +1,1 @@
-# jest-js-sample
+# Exemplo de configuração do Jest
