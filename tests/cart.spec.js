@@ -19,7 +19,7 @@ describe('Cart', () => {
     it('should throw an error', () => {
       const cart = new Cart();
 
-      expect(cart.addItem).toThrow(Error);
+      expect(cart.addItem).toThrowError();
     });
   });
 });
